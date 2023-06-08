@@ -75,3 +75,7 @@
     transform: scale(1.125);
     transition: all 0.5s ease-in;
 }
+
+a {
+    all: unset;
+}
